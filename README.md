@@ -5,6 +5,17 @@
  <font color=blue size='10px' face='tahoma'>
  <h1> <p align='center'> <b> UBUNTU-INSTALL <br> </h1>
   </body>
+<font size='1px'>
+<h1>  Need : </h1>
+<br> 
+
+* pkg install wget curl proot tar -y
+<br> 
+
+* git clone https://github.com/RAMSES-DG/ubuntu-install
+
+<br>
+<font size='1px'>
 
  <font size='1px'>
  <h1>  Usage : </h1>
