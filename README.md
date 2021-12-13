@@ -1,10 +1,9 @@
 <html>
   <body>
- <img src=''/>
+ <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdY9riOlg3jUhB2Ai4h2C23TYexs-x0I_OQ&usqp=CAU'/>
 
  <font color=blue size='10px' face='tahoma'>
- <h1> <p align='center'> <b> K
-UBUNTU-INSTALL <br> </h1>
+ <h1> <p align='center'> <b> UBUNTU-INSTALL <br> </h1>
   </body>
 
  <font size='1px'>
