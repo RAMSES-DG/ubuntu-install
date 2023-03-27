@@ -1,6 +1,6 @@
 <html>
   <body>
- <img src='https://c.top4top.io/p_2173mbzxp0.jpg'/>
+ <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpyppEFYPo7R2yvE0RYli3WxZEEy0T2U6F5w&usqp=CAU'/>
 
  <font color=blue size='10px' face='tahoma'>
  <h1> <p align='center'> <b> UBUNTU-INSTALL <br> </h1>
